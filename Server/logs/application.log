@@ -596,3 +596,20 @@
 {"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T10:34:35.977Z"}
 {"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:34:41.008Z"}
 {"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:34:41.016Z"}
+{"level":"info","message":"login successfull ,admin@gmail.com","timestamp":"2024-09-05T10:40:06.815Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T10:40:06.954Z"}
+{"level":"info","message":"Employee count retrieved successfully: 5","timestamp":"2024-09-05T10:40:06.977Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹170000","timestamp":"2024-09-05T10:40:06.983Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T10:40:06.990Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T10:40:07.003Z"}
+{"level":"info","message":"Employee count retrieved successfully: 5","timestamp":"2024-09-05T10:40:07.019Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹170000","timestamp":"2024-09-05T10:40:07.023Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T10:40:07.027Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:40:14.709Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:40:14.738Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:11.696Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:11.708Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:17.427Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:17.435Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:30.769Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:30.775Z"}
