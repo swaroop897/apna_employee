@@ -1,0 +1,12 @@
+.nav-link {
+    color: white;
+    transition: background-color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    background-color: #343a40; /* Slightly lighter shade of dark */
+    color: #fff; /* Ensure the text color remains white */
+    border-radius: 0.25rem; /* Add some border-radius to make it look smooth */
+  }
+  
+  

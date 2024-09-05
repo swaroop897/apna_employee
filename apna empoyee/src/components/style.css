@@ -1,0 +1,90 @@
+.loginPage {
+    background: linear-gradient(rgba(11,11,11,0.5), rgba(10,10,10,0.5)), url('images/loginImg.jpeg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover; /* Ensure the background covers the entire page */
+    min-height: 100vh; /* Ensure the background covers the entire viewport height */
+    display: flex; /* Center the login form */
+    align-items: center;
+    justify-content: center;
+    padding: 20px; /* Add padding to avoid content touching edges on smaller screens */
+}
+
+@media (max-width: 768px) {
+    .loginPage {
+        background-size: cover; /* Cover the background properly on smaller screens */
+    }
+}
+
+
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.8); 
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    width: 100%; /* Full width on mobile */
+    max-width: 400px; /* Limit the width on larger screens */
+}
+
+@media (max-width: 768px) {
+    .loginForm {
+        padding: 15px; /* Reduce padding on smaller screens */
+        max-width: 90%; /* Allow more space on smaller screens */
+    }
+}
+
+
+.loginForm h1 {
+    font-size: 2rem; /* Adjust heading size for responsiveness */
+    margin-bottom: 20px;
+}
+
+.loginForm input[type="text"],
+.loginForm input[type="password"],
+.loginForm button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1rem;
+}
+
+.loginForm button {
+    background-color: #004aad; /* Consistent button color */
+    color: white;
+    cursor: pointer;
+}
+
+.employeeImage{
+    width : 40px;
+    height : 40px;
+    border-radius : 10%;
+}
+
+@media (max-width: 768px) {
+    .loginForm h1 {
+        font-size: 1.5rem; /* Slightly smaller heading on smaller screens */
+    }
+
+    .loginForm input[type="text"],
+    .loginForm input[type="password"],
+    .loginForm button {
+        font-size: 0.9rem; /* Slightly smaller text and buttons on smaller screens */
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    .loginForm {
+        padding: 10px; /* Reduce padding further for very small screens */
+    }
+
+    .loginForm h1 {
+        font-size: 1.2rem; /* Smaller heading on very small screens */
+    }
+}
+
+
