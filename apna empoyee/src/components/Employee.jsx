@@ -21,11 +21,13 @@ function Employee() {
     axios.delete('http://localhost:3000/auth/delete_employee/' + id)
       .then(result => {
         if (result.data.Status) {
-          window.location.reload();
+          // Update the state to remove the deleted employee without reloading the page
+          setEmployee(prevEmployees => prevEmployees.filter(e => e.id !== id));
         } else {
           alert(result.data.Error);
         }
-      });
+      })
+      .catch(err => console.log(err));
   }
 
   return (
@@ -43,7 +45,7 @@ function Employee() {
               <th>E-mail</th>
               <th>Address</th>
               <th>Salary</th>
-              <th>Category</th> {/* New column for category */}
+              <th>Category</th>
               <th>Actions</th>
             </tr>
           </thead>
@@ -60,7 +62,7 @@ function Employee() {
                   </td>
                   <td>{e.address}</td>
                   <td>{e.salary}</td>
-                  <td>{e.catagory_name}</td> {/* Display category name */}
+                  <td>{e.catagory_name}</td>
                   <td>
                     <Link to={`/dashboard/edit_employee/` + e.id} className='btn btn-info btn-sm me-2'>Edit</Link>
                     <button className='btn btn-warning btn-sm' onClick={() => handleDelete(e.id)}>Delete</button>

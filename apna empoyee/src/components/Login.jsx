@@ -48,10 +48,7 @@ const handleSubmit = (event)=>{
                      onChange={(e)=>setvalue({...value,password : e.target.value})}       className='form-control rounded-0'/>
                 </div>
                 <button type='submit' className='btn btn-success w-100 rounded-0'> Log in</button>
-                <div className='mb-1'>
-                    <label htmlFor='cheakbox' className='me-2'>Agree with the tearms & conditions </label>
-                     <input type="checkbox" name="tike" id="tike" required />
-                </div>
+              
             </form>
         </div>
     </div>
