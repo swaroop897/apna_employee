@@ -613,3 +613,168 @@
 {"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:17.435Z"}
 {"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:30.769Z"}
 {"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T10:42:30.775Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:05:54.657Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:05:54.664Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:05:56.396Z"}
+{"level":"info","message":"Employee count retrieved successfully: 5","timestamp":"2024-09-05T11:05:56.401Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹170000","timestamp":"2024-09-05T11:05:56.404Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:05:56.412Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:05:56.414Z"}
+{"level":"info","message":"Employee count retrieved successfully: 5","timestamp":"2024-09-05T11:05:56.419Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹170000","timestamp":"2024-09-05T11:05:56.421Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:05:56.424Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:06:00.131Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:06:00.135Z"}
+{"level":"info","message":"Employee deleted successfully: ID 70","timestamp":"2024-09-05T11:06:09.011Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:06:15.441Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:06:15.446Z"}
+{"level":"info","message":"Employee added successfully: super","timestamp":"2024-09-05T11:07:06.877Z"}
+{"level":"info","message":"Employee deleted successfully: ID 72","timestamp":"2024-09-05T11:14:40.585Z"}
+{"level":"info","message":"Logout request received","timestamp":"2024-09-05T11:17:26.082Z"}
+{"level":"info","message":"Token cleared successfully","timestamp":"2024-09-05T11:17:26.084Z"}
+{"level":"info","message":"login successfull ,admin@gmail.com","timestamp":"2024-09-05T11:17:53.472Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:17:53.515Z"}
+{"level":"info","message":"Employee count retrieved successfully: 4","timestamp":"2024-09-05T11:17:53.519Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹130000","timestamp":"2024-09-05T11:17:53.522Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:17:53.527Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:17:53.530Z"}
+{"level":"info","message":"Employee count retrieved successfully: 4","timestamp":"2024-09-05T11:17:53.534Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹130000","timestamp":"2024-09-05T11:17:53.537Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:17:53.540Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:04.144Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:04.147Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:07.080Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:07.084Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:18:10.191Z"}
+{"level":"info","message":"Employee count retrieved successfully: 4","timestamp":"2024-09-05T11:18:10.197Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹130000","timestamp":"2024-09-05T11:18:10.200Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:18:10.205Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:18:10.208Z"}
+{"level":"info","message":"Employee count retrieved successfully: 4","timestamp":"2024-09-05T11:18:10.211Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹130000","timestamp":"2024-09-05T11:18:10.212Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:18:10.213Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:12.461Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-05T11:18:12.465Z"}
+{"level":"info","message":"Employee deleted successfully: ID 69","timestamp":"2024-09-05T11:18:18.964Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:18:22.458Z"}
+{"level":"info","message":"Employee count retrieved successfully: 3","timestamp":"2024-09-05T11:18:22.466Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹85000","timestamp":"2024-09-05T11:18:22.468Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:18:22.472Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-05T11:18:22.475Z"}
+{"level":"info","message":"Employee count retrieved successfully: 3","timestamp":"2024-09-05T11:18:22.480Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹85000","timestamp":"2024-09-05T11:18:22.482Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-05T11:18:22.484Z"}
+{"level":"info","message":"login successfull ,admin@gmail.com","timestamp":"2024-09-06T04:12:32.939Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:12:33.013Z"}
+{"level":"info","message":"Employee count retrieved successfully: 3","timestamp":"2024-09-06T04:12:33.029Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹85000","timestamp":"2024-09-06T04:12:33.034Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:12:33.038Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:12:33.043Z"}
+{"level":"info","message":"Employee count retrieved successfully: 3","timestamp":"2024-09-06T04:12:33.053Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹85000","timestamp":"2024-09-06T04:12:33.061Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:12:33.070Z"}
+{"level":"info","message":"Employee deleted successfully: ID 68","timestamp":"2024-09-06T04:12:40.234Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T04:50:53.431Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T04:50:53.449Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:50:56.388Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T04:50:56.400Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T04:50:56.405Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:50:56.409Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:50:56.412Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T04:50:56.420Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T04:50:56.422Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:50:56.426Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:51:08.641Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:51:08.650Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T04:51:08.658Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T04:51:08.661Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T04:51:08.665Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T04:51:08.667Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T04:51:08.673Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T04:51:08.676Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T07:30:15.498Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T07:30:15.510Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:23.228Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:23.243Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:23.247Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:23.249Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:23.253Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:23.258Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:23.260Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:23.264Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:24.991Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:24.998Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:25.004Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:25.008Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:25.016Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:25.018Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:25.021Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:25.023Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:26.272Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:26.281Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:26.284Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:26.291Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:26.295Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:26.301Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:26.303Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:26.305Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T07:30:26.581Z"}
+{"level":"info","message":"featched category data successfully","timestamp":"2024-09-06T07:30:26.588Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:27.017Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:27.028Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:27.035Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:27.044Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:27.050Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:27.057Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:27.062Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:27.068Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:27.743Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:27.761Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:27.765Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:27.771Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:27.780Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:27.787Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:27.790Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:27.797Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:29.393Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:29.399Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:29.403Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:29.409Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-06T07:30:29.413Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-06T07:30:29.417Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-06T07:30:29.419Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-06T07:30:29.421Z"}
+{"level":"info","message":"login successfull ,admin@gmail.com","timestamp":"2024-09-09T05:01:32.464Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:01:32.608Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:01:32.616Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:01:32.624Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:01:32.629Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:01:32.633Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:01:32.644Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:01:32.651Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:01:32.656Z"}
+{"level":"info","message":"login successfull ,admin@gmail.com","timestamp":"2024-09-09T05:02:09.599Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:02:09.674Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:02:09.683Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:02:09.688Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:02:09.694Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:02:09.700Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:02:09.706Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:02:09.708Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:02:09.713Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:02:16.273Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:02:16.280Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:02:16.289Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:02:16.293Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:02:16.296Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:02:16.299Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:02:16.304Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:02:16.307Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:05:34.344Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:05:34.365Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:05:34.368Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:05:34.373Z"}
+{"level":"info","message":"Admin count retrieved successfully: 1","timestamp":"2024-09-09T05:05:34.385Z"}
+{"level":"info","message":"Employee count retrieved successfully: 2","timestamp":"2024-09-09T05:05:34.393Z"}
+{"level":"info","message":"Total salary retrieved successfully: ₹55000","timestamp":"2024-09-09T05:05:34.399Z"}
+{"level":"info","message":"Admin records retrieved successfully. Number of records: 1","timestamp":"2024-09-09T05:05:34.403Z"}

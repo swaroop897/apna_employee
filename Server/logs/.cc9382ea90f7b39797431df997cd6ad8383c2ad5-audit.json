@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "D:\\apna employee\\Server\\logs\\.cc9382ea90f7b39797431df997cd6ad8383c2ad5-audit.json",
+    "files": [
+        {
+            "date": 1725865742859,
+            "name": "D:\\apna employee\\Server\\logs\\application-2024-09-09.log",
+            "hash": "9b445d6b23981c65df1675ccf42ae08663fbeb9bffd8edacf58ae715d08f92aa"
+        },
+        {
+            "date": 1725940012058,
+            "name": "D:\\apna employee\\Server\\logs\\application-2024-09-10.log",
+            "hash": "98a35faced37a43e67f13f6d960d6e6da85db42d2dc98283869b5ad0428a16e4"
+        }
+    ],
+    "hashType": "sha256"
+}
